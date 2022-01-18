@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    margin: auto;
+    font-family: 'Raleway', sans-serif;
+    color: #000;
+    background-color: rgb(66, 109, 109);
+    background-image: url(../images/money.jpg);
+    background-size: cover;
+}
+
+.container {
+    max-width: 700px;
+    padding: 20px;
+    margin: auto;
+}
+
