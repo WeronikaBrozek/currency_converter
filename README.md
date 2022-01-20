@@ -1,5 +1,5 @@
-# Welcome in my Currency Converter!
-It's a simple webside where you can convert currency values based on 15.01.2022 day exchange values. This calculator let you convert PLN to EUR, GPD and JPY.
+# Welcome to my Currency Converter!
+It's a simple website where you can convert currency values based on 15.01.2022 day exchange values. This calculator lets you convert PLN to EUR, GBP and JPY.
 
 Here's the link: [Currency Converter](https://weronikabrozek.github.io/currency_converter/)
 
