@@ -3,8 +3,6 @@
         console.log("Witam serdecznie, każdego kto tu zagląda!");
     };
 
-    welcome();
-
     const calculateResult = (pln, currency) => {
         const eur = 4.55;
         const gbp = 5.44;
@@ -46,6 +44,7 @@
         formElement.addEventListener("submit", onFormSubmit);
     };
 
+    welcome();
     init();
 
 }
