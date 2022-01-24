@@ -8,8 +8,8 @@ To use calculator, provide amount of money you want to convert and then choose d
 > When providing amount you can also use arrows on right side of the field and change it with small steps (0.01).
 
 
-This is how this page looks like:
-![page UI](images/page_UI.png)
+Example of use:
+![gif](images/record.gif)
 
 ## Technologies
 Project is created with:
