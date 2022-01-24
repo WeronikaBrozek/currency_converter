@@ -7,6 +7,10 @@ Here's the link: [Currency Converter](https://weronikabrozek.github.io/currency_
 To use calculator, provide amount of money you want to convert and then choose desired currency using the drop-down. To see the result just click on button ```Przelicz```. 
 > When providing amount you can also use arrows on right side of the field and change it with small steps (0.01).
 
+
+This is how this page looks like:
+![page UI](images/page_UI.png)
+
 ## Technologies
 Project is created with:
 * HTML (BEM),
